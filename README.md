@@ -2,7 +2,7 @@
 
 A aplicação tem como objetivo representar algumas informações sobre o local selecionado.
 
-Para iniciar a aplicação, navegue para a pasta de cada aplicação e execute os comandos.
+Para iniciar a aplicação, primeiro navegue para a pasta "server" execute os comandos abaixo depois com um outro terminal navegue para a pasta "client" e execute os mesmos comandos.
 
 ```bash
 npm install
